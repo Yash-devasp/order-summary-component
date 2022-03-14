@@ -91,7 +91,7 @@ body {
 
 footer {
   position: absolute;
-  bottom: 1%;
+  bottom: 0;
 }
 
 .order-detail-change:active,
