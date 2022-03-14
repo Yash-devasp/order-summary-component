@@ -12,6 +12,7 @@ body {
 }
 
 .order-component {
+  margin: auto;
   width: 80%;
   max-width: 28rem;
   background-color: white;
